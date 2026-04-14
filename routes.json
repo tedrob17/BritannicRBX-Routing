@@ -1,1 +1,10 @@
-
+{
+  "BR123": {
+    "Departure": "Liverpool",
+    "Arrival": "Malta"
+  },
+  "BR124": {
+    "Departure": "Malta",
+    "Arrival": "Liverpool"
+  }
+}
